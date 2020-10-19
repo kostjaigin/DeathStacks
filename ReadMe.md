@@ -3,8 +3,6 @@
 
 [About DeathStacks](https://en.wikipedia.org/wiki/Death_Stacks)
 
-### i will translate german assignment text later, i promise :)
-
 Die Aufgabe soll als Servlet auf einem Apache Tomcat Web-Server abgeliefert werden. In eclipse ist dies 
 ein "dynamic web project". 
 
